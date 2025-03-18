@@ -1,0 +1,15 @@
+{
+    "name": "savanrathod/db-backup",
+    "type": "composer0plugin",
+    "autoload": {
+        "psr-4": {
+            "Savanrathod\\DbBackup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "savanrathod"
+        }
+    ],
+    "require": {}
+}
