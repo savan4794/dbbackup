@@ -1,6 +1,5 @@
 {
     "name": "savanrathod/db-backup",
-    "type": "composer0plugin",
     "autoload": {
         "psr-4": {
             "Savanrathod\\DbBackup\\": "src/"
@@ -11,6 +10,8 @@
             "name": "savanrathod"
         }
     ],
+    "type": "library",
+    "license": "MIT",
     "require": {},
     "minimum-stability": "dev",
     "prefer-stable": true
